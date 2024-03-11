@@ -1,0 +1,5 @@
+firebase_test_project=test-mysunrise
+live_branches=("master" "develop" "develop-release" "t01")
+enable_preview_branches=true
+firebase_parent_project=test
+additionalScript="1"
